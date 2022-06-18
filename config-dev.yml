@@ -1,2 +1,3 @@
 #back
-config-dev
+config:
+  info: back，springcloud-config/config-dev.yml version=1
